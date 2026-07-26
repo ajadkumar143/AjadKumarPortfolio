@@ -26,6 +26,7 @@ export function App() {
       if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
         e.preventDefault();
         setIsCommandPaletteOpen((prev) => !prev);
+        // hello this is my portfolio website, I am a software engineer and this is my personal website where I showcase my projects and skills.
       }
     };
 
