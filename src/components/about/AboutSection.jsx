@@ -32,7 +32,7 @@ export const AboutSection = () => {
               
               <div className="relative slate-card rounded-3xl p-3 border border-white/10 overflow-hidden shadow-2xl">
                 <img
-                  src="src/Images/My Photo.jpeg"
+                  src="https://raw.githubusercontent.com/ajadkumar143/AjadKumarPortfolio/refs/heads/main/src/Images/My%20Photo.jpeg"
                   alt={personalInfo.name}
                   className="w-full h-80 sm:h-96 object-cover object-center rounded-2xl filter brightness-95 contrast-105 group-hover:scale-105 transition-transform duration-500"
                 />
