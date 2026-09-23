@@ -12,11 +12,12 @@ export const personalInfo = {
   experienceYears: "4+",
   currentRole: "Full Stack .NET Developer",
   location: "Aliganj, Lucknow, Uttar Pradesh, India",
+
   phone: "+91 8052992006",
   languages: ["Hindi", "English"],
   email: "ajadkumarsvn123@gmail.com",
   linkedin: "https://linkedin.com/in/ajad-kumar-dev",
-  github: "https://github.com/ajad-kumar",
+  github: "https://github.com/ajadkumar143",
   resumeUrl: "/resume.pdf",
   bio: "I'm a passionate Full Stack .NET Developer with 4+ years of experience building secure, scalable, and user-friendly web applications. I enjoy solving real-world problems, writing clean code, designing efficient databases, and delivering reliable software with Microsoft's technology stack."
 };
@@ -54,7 +55,7 @@ export const aboutCards = [
     icon: "Code2",
     title: "Specialization",
     subtitle: "Full Stack .NET",
-    detail: "C#, ASP.NET Core & React",
+    detail: "C#, Dot NET MVC, ADO.NET, ASP.NET Core",
     color: "from-sky-400/20 to-indigo-500/20 border-sky-400/30"
   }
 ];
